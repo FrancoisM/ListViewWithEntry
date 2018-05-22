@@ -1,4 +1,5 @@
 ﻿using Xamarin.Forms;
+
 namespace ListViewWithEntry
 {
 	public class CustomTextCell : TextCell
